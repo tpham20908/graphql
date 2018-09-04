@@ -1,0 +1,5 @@
+mongodb (server): 	https://mlab.com/home
+graphql-api (database): user: test	pwd: Dicom-1234
+
+
+mongodb://<dbuser>:<dbpassword>@ds141952.mlab.com:41952/graphql-api
