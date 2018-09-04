@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=ed8SzALpx1Q
+
 mongodb (server): 	https://mlab.com/home
 graphql-api (database): user: test	pwd: Dicom-1234
 
